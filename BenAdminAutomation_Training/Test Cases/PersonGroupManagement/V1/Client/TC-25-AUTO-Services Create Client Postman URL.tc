@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case verifies that a client can be created and then verifies that it was created via the POST response.</description>
+   <name>TC-25-AUTO-Services Create Client Postman URL</name>
+   <tag>CreateClient</tag>
+   <comment></comment>
+   <testCaseGuid>0c963a89-f4a4-4fc4-8beb-511467d5d0b3</testCaseGuid>
+   <variable>
+      <defaultValue>'Tiffany'</defaultValue>
+      <description></description>
+      <id>52715b9f-c7f0-4ccc-895b-db57cdb0bb65</id>
+      <masked>false</masked>
+      <name>legalClientName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Arrington'</defaultValue>
+      <description></description>
+      <id>bc2b27cc-b62e-4ccc-bfca-a66bbafa6447</id>
+      <masked>false</masked>
+      <name>clientName</name>
+   </variable>
+   <variable>
+      <defaultValue>'tarringtontest@test.com'</defaultValue>
+      <description></description>
+      <id>1dd565af-e12e-4ab7-ab20-4df501b0d32c</id>
+      <masked>false</masked>
+      <name>primaryContactEmail</name>
+   </variable>
+</TestCaseEntity>

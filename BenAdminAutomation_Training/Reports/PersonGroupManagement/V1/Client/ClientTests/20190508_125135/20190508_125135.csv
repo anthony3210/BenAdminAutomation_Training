@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+ClientTests,,This is a set of Person Group Management Test Cases.,2019-05-08 12:51:47,2019-05-08 12:51:59,12.195s,PASSED
+,,,,,,
+Test Cases/PersonGroupManagement/V1/Client/TC-25-AUTO-Services Create Client Postman URL,,This test case verifies that a client can be created and then verifies that it was created via the POST response.,2019-05-08 12:51:47,2019-05-08 12:51:59,12.018s,PASSED
+"response = sendRequest(findTestObject(""PersonGroupManagement/V1/Client/CreateClient"", [""legalClientName"":legalClientName, ""clientName"":clientName, ""primaryContactEmail"":primaryContactEmail]))",,,2019-05-08 12:51:47,2019-05-08 12:51:59,11.696s,PASSED
+"verifyElementPropertyValue(response, ""legalClientName"", legalClientName)",,,2019-05-08 12:51:59,2019-05-08 12:51:59,0.029s,PASSED
+"verifyElementPropertyValue(response, ""clientName"", clientName)",,,2019-05-08 12:51:59,2019-05-08 12:51:59,0.011s,PASSED
+"verifyElementPropertyValue(response, ""primaryContactEmail"", primaryContactEmail)",,,2019-05-08 12:51:59,2019-05-08 12:51:59,0.011s,PASSED
+"verifyResponseStatusCode(response, 201)",,,2019-05-08 12:51:59,2019-05-08 12:51:59,0.005s,PASSED
