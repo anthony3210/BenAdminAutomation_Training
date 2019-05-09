@@ -3,6 +3,17 @@
    <description>This is a set of Person Group Management Test Cases.</description>
    <name>ClientTests</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>0</key>
+            <value>{&quot;parent&quot;:{&quot;parentName&quot;:&quot;1.0 Release&quot;,&quot;name&quot;:&quot;Training&quot;,&quot;id&quot;:2602739,&quot;type&quot;:4,&quot;parentId&quot;:403864},
+&quot;default&quot;:true,&quot;name&quot;:&quot;ClientTests&quot;,&quot;pid&quot;:&quot;&quot;,&quot;id&quot;:3666798,&quot;testRuns&quot;:[]}</value>
+         </entry>
+      </properties>
+      <type>TESTSUITE</type>
+   </integratedEntity>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>

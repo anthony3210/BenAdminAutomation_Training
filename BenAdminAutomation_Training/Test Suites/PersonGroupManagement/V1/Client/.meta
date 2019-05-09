@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FolderEntity>
+   <description></description>
+   <name>Client</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>id</key>
+            <value>85800</value>
+         </entry>
+         <entry>
+            <key>name</key>
+            <value>Ben Admin 2.0</value>
+         </entry>
+      </properties>
+      <type>FOLDER</type>
+   </integratedEntity>
+   <folderType>TESTSUITE</folderType>
+</FolderEntity>

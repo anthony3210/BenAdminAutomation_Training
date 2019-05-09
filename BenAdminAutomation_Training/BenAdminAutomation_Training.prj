@@ -3,6 +3,20 @@
    <description>This is the training project for the Ben Admin Automation team.</description>
    <name>BenAdminAutomation_Training</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>0</key>
+            <value>{'testSuiteFolderMappeds':['Test Suites/PersonGroupManagement/V1/Client'],'name':'Ben Admin 2.0','testCaseFolderMappeds':['Test Cases/PersonGroupManagement/V1/Client'],'id':85800}</value>
+         </entry>
+         <entry>
+            <key>1</key>
+            <value>{'testSuiteFolderMappeds':[],'name':'mEDGE 2017 / 2018','testCaseFolderMappeds':[],'id':34468}</value>
+         </entry>
+      </properties>
+      <type>PROJECT</type>
+   </integratedEntity>
    <UUID>98367efe-3f59-4fb4-a855-da2641ae718f</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>

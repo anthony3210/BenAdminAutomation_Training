@@ -3,6 +3,32 @@
    <description>This test case verifies that a client can be created and then verifies that it was created via the POST response.</description>
    <name>TC-25-AUTO-Services Create Client Postman URL</name>
    <tag>CreateClient</tag>
+   <integratedEntity>
+      <productName>qTest</productName>
+      <properties>
+         <entry>
+            <key>id</key>
+            <value>32272240</value>
+         </entry>
+         <entry>
+            <key>name</key>
+            <value>TC-25-AUTO-Services Create Client Postman URL</value>
+         </entry>
+         <entry>
+            <key>parentId</key>
+            <value>6975915</value>
+         </entry>
+         <entry>
+            <key>pid</key>
+            <value>TC-266</value>
+         </entry>
+         <entry>
+            <key>versionId</key>
+            <value>45763760</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
    <comment></comment>
    <testCaseGuid>0c963a89-f4a4-4fc4-8beb-511467d5d0b3</testCaseGuid>
    <variable>
